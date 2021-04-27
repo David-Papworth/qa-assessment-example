@@ -18,5 +18,3 @@ def endsPy(input):
 		return True
 	else:
 		return False
-
-print(endsPy("tpy"))
